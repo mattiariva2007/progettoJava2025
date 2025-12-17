@@ -4,6 +4,6 @@ public class Start
 {
 	public static void main(String arg[])
 	{
-		System.out.println("Ciao");
+		System.ou.println("Ciao");
 	}
 }
